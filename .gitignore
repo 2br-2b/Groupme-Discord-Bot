@@ -1,0 +1,3 @@
+*.pyc
+discord_files/token_manager.py
+groupme_files/token_manager.py
