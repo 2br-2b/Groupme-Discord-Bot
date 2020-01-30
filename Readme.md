@@ -12,4 +12,6 @@ Each of these should be a python file with the following code:
     `TOKEN = 'INSERT_TOKEN_HERE'`
 For the Discord one, set the token to a token for a Discord bot.  For GroupMe, set the token to a GroupMe Bot ID (gotten at https://dev.groupme.com/bots).
 
+If this isn't clear enough, make a pull request request and I can clarify this!
+
 Enjoy!
